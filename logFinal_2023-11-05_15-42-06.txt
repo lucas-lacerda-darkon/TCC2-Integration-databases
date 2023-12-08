@@ -1,0 +1,10 @@
+Quantidade copiados: 1000002
+Quantidade de erros: 0
+Média CPU: 7.66%
+Média RAM: 51.16%
+Data Hora Início: 2023-11-05_15-42-06
+Data Hora Fim: 2023-11-05 17:49:31
+Hostname1: .\SQLEXPRESS
+Hostname2: localhost
+Banco1: Database1
+Banco2: database3

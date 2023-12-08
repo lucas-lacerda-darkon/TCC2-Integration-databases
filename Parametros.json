@@ -1,0 +1,11 @@
+{
+  "hostname1": "DESKTOP-6ERDHEL\SQLEXPRESS",
+  "banco1": "Database1",
+  "user1": "user",
+  "senha1": "user1234",
+
+  "hostname2": "DESKTOP-6ERDHEL\SQLEXPRESS",
+  "banco2": "Database2",
+  "user2": "user",
+  "senha2": "user1234"
+}
